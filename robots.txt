@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://neicecia.github.io/sitemap/sitemap.txt
